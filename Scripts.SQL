@@ -10,5 +10,14 @@ SELECT * FROM OPT_PARAMETROS;
 
 
 /***********SE DEBE MIGRAR *******************/
+--1.Consulta 
+--2.Directorio
+--3.layout
+--4.pivot
+--5.pagesettings
+--6.parametros
+/********************************************/
+
+
 
 
